@@ -1,7 +1,6 @@
 // 주의할 점
 // C, D 작업이 끝나더라도 B 작업이 끝나지 않으면 C, D 작업은 배포하지 못함.
 
-
 function solution(progresses, speeds){
     let answer = [];
 
