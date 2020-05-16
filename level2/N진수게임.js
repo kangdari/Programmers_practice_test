@@ -15,7 +15,6 @@ function solution(n, t, m, p){
         order += m
     }
 
-    console.log(answer)
     return answer
 }
 
